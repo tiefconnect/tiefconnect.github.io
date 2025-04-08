@@ -6,7 +6,7 @@
 }
 
 body {
-    background: #1a2b44 url('../img/background_free.jpg') no-repeat center center fixed;
+    background: #1a2b44 url('../img/background_free_4.jpg') no-repeat center center fixed;
     background-size: cover; /* Bild wird so skaliert, dass es die gesamte Fläche abdeckt */
     color: #f5f5f5; /* Weicheres Weiß für bessere Lesbarkeit */
     line-height: 1.6;
@@ -22,7 +22,7 @@ body::before {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(10, 20, 36, 0.6); /* Etwas hellere Überlagerung */
+    background: rgba(10, 20, 36, 0.3); /* Etwas hellere Überlagerung */
     z-index: -1;
 }
 
@@ -141,7 +141,7 @@ section {
     align-items: center;
     gap: 40px;
     flex-wrap: wrap;
-    background: rgba(42, 68, 106, 0.95); /* Dunkleres Blau für besseren Kontrast */
+    background: rgba(55, 88, 138, 0.99); /* Dunkleres Blau für besseren Kontrast */
     padding: 30px;
     border-radius: 15px;
     border: 1px solid #15273c; /* Dezenter blauer Rand */
@@ -164,10 +164,10 @@ section {
 }
 
 h1 {
-    color: #a0c1e6; /* Helleres Blau für besseren Kontrast */
+    color: #c3defe; /* Helleres Blau für besseren Kontrast */
     font-size: clamp(1.8rem, 5vw, 2.5rem);
     margin-bottom: 20px;
-    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.2); /* Leichter Textschatten */
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.4); /* Leichter Textschatten */
 }
 
 h2 {
@@ -188,7 +188,7 @@ p {
     font-size: clamp(1rem, 3vw, 1.05rem); /* Etwas größere Schrift auf Desktop */
     margin-bottom: 12px;
     margin-top: 12px;
-    line-height: 1.8; /* Bessere Lesbarkeit durch größere Zeilenhöhe */
+    line-height: 1.7; /* Bessere Lesbarkeit durch größere Zeilenhöhe */
 }
 
 ul {
