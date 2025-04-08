@@ -1,0 +1,12 @@
+fibre_1 https://www.freeimages.com/download/fibre-optic-light-1460819
+fibre_1 https://pixabay.com/photos/technology-fiber-optic-light-cable-2749586/
+background_free https://pixabay.com/photos/sculpture-art-tower-architecture-8538468/
+image_1 https://pixabay.com/photos/fireworks-network-technology-4747602/
+image_6 https://pixabay.com/photos/fiber-cable-wire-connection-4814456/
+image_3 https://www.pexels.com/de-de/foto/weisse-und-blaue-kabel-2881229/
+image_2 https://pixabay.com/photos/network-fiber-optics-data-2633608/
+image_4 https://pixabay.com/photos/fibre-fiber-optics-blender-1515964/
+image_7 https://pixabay.com/photos/prism-light-spectrum-optics-6174502/
+background_free2: https://unsplash.com/de/fotos/ein-blauer-und-rosafarbener-hintergrund-mit-weissem-hintergrund-R42KPtjCbiM
+background_free3: https://unsplash.com/de/fotos/ein-violett-weisser-abstrakter-hintergrund-mit-linien-qrOKKo80Kp0
+background_free4: https://unsplash.com/de/fotos/ein-verschwommenes-foto-eines-kreisformigen-objekts-Jk2QklIAlrc
